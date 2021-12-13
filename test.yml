@@ -1,0 +1,3 @@
+- name: 'Testing'
+  url: 'https://percy.io'
+  waitForTimeout: 1000
